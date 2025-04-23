@@ -1,0 +1,9 @@
+/*we want to add styling to entire website, so we to apply styling to every element
+and to target the elements we use astrist(*)*/
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "outfit", Arial, Helvetica, sans-serif;
+}
