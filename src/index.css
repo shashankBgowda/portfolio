@@ -7,3 +7,7 @@ and to target the elements we use astrist(*)*/
   padding: 0;
   font-family: "outfit", Arial, Helvetica, sans-serif;
 }
+
+html{
+  scroll-behavior: smooth;
+}

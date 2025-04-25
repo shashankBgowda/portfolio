@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Software Engineer (IT- Intern",
+    "organisation": "JSW Energy",
+    "startDate": "June 2024",
+    "endDate": "August 2024",
+    "experiences": [
+      "Python",
+      "Deep Learning",
+      "Transformers",
+      "voice and face detection project"
+    ],
+    "imageSrc": "history/jsw.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "Corezeal",
+    "startDate": "May 2022",
+    "endDate": "July 2023",
+    "experiences": ["React", "Restful API's", "ETL"],
+    "imageSrc": "history/corezeal.png"
+  }
+]

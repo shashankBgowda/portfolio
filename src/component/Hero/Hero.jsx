@@ -1,6 +1,7 @@
 import React from 'react'
-import { getImageUrl } from '../../../utils';
+/*import { getImageUrl } from '../../utils';*/
 import styles from "./Hero.module.css";
+import myphoto from "D:/works/Portfolio/myportfolio/assets/hero/My_photo.jpeg";
 
 export const Hero = () => {
   return (
@@ -12,7 +13,7 @@ export const Hero = () => {
             </p>
             <a href='mailto:shashankbg74@gmail.com' className={styles.contactbtn}>Contact Me</a>
         </div>
-        <img src={getImageUrl("hero/My_photo.jpeg")} alt="Hero image" className={styles.heroimg}/>
+        <img src={myphoto} alt="Hero image" className={styles.heroimg}/>
         <div className={styles.topBlur} />
         <div className={styles.bottomBlur} />
 

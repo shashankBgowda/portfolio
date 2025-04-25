@@ -1,4 +1,4 @@
-@import "../../../vars.css";
+@import "../../vars.css";
 
 .container {
     position:relative;
@@ -47,6 +47,7 @@
     font-size: 30px;
     font-weight: 600;
     padding: 17px 26px;
+    margin-bottom: 30 px;
     box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
 }
 
