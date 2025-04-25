@@ -5,10 +5,10 @@
     "startDate": "June 2024",
     "endDate": "August 2024",
     "experiences": [
-      "Python",
-      "Deep Learning",
-      "Transformers",
-      "voice and face detection project"
+      "PythonWorking on Deep Learning Neural Networks, gaining hands-on experience in this cutting-edge field",
+      "Implementing my skills in voice, video, and facial detection projects, tackling real-world challenges",
+      "Exploring and applying complex algorithms to enhance project outcomes",
+      "Diving deep into understanding and working with Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN)."
     ],
     "imageSrc": "history/jsw.png"
   },
@@ -17,7 +17,11 @@
     "organisation": "Corezeal",
     "startDate": "May 2022",
     "endDate": "July 2023",
-    "experiences": ["React", "Restful API's", "ETL"],
+    "experiences": [
+      " Designed and implemented scalable backend components for web applications, focusing on RESTful API development with Node.js and Express while ensuring system reliability and performance",
+      "Collaborated with cross-functional teams to integrate new features into existing systems, following agile methodologies and participating in regular sprint planning and review sessions",
+      " Debugged complex system issues and implemented performance optimizations that reduced load times by 15%, demonstrating strong problem-solving skills and technical intuition."
+    ],
     "imageSrc": "history/corezeal.png"
   }
 ]
