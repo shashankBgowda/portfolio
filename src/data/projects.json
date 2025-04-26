@@ -1,19 +1,22 @@
 [
   {
     "title": "Text Generation using Deep Learning",
+    "imageSrc": "project/project.png",
     "description": "It is a Text completion project, which understands user script and completes it",
     "skills": ["Python", "DNN", "Transformers"],
     "source": "https://github.com/shashankBgowda/Text_generation_DeepLearning"
   },
   {
     "title": "Authentication(MERN)",
+    "imageSrc": "project/project.png",
     "description": "Authentication project(Login, Signin, Delete User, Create new user",
     "skills": ["React", "Node", "Express", "Postman", "Tailwindcss"],
     "source": "https://github.com/shashankBgowda/Authentication-Mern"
   },
   {
     "title": "Fake News Detection",
-    "description": "This project aims to classify news articles as real or fake using Natural Language Processing (NLP) techniques and machine learning algorithms.",
+    "imageSrc": "project/project.png",
+    "description": "This project aims to classify news articles as real or fake using NLP and ML algorithms.",
     "skills": ["Python", "Machine Learning", "NLP"],
     "source": "https://github.com/shashankBgowda/Fake-news-detection-NLP-"
   }
